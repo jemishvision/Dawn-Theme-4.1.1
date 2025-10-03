@@ -3599,6 +3599,6 @@ details-disclosure > details {
 
 
 
-.collection slider-component.slider-mobile-gutter {
-  display: none !important;
+body * {
+  color: red !important;
 }
